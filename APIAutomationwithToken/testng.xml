@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Akhilesh's Documents/AutomationCode/APIAutomationwithToken/src/test">
+        <classes>
+            <class name="com.api.QuickFilterApi"/>
+            <class name="com.api.LearnerApi"/>
+        </classes>
+    </test>
+</suite>
